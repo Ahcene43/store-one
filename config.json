@@ -1,38 +1,29 @@
 {
   "PRODUCTS": {
-    "3": {
+    "1": {
       "name": "مودال 1",
-      "price": 4500,
-      "image": "https://raw.githubusercontent.com/Ahcene43/WAW/main/images/1760985144725-Screenshot_20251006-133723_Facebook.jpg",
-      "description": "معطف الأكثر  مبيعا",
-      "availableSizes": [
-        "L",
-        "XL",
-        "M",
-        "S"
-      ],
-      "availableColors": [
-        "كما في الصورة",
-        "أحمر"
-      ]
-    },
-    "4": {
-      "name": "مودال 2",
-      "price": 3300,
-      "image": "images/modal4.jpg",
-      "description": "وصف المنتج الجديد",
+      "price": 5500,
+      "image": "https://raw.githubusercontent.com/Ahcene43/WAW/main/images/1760944489259-Screenshot_20251006-134027_Facebook.jpg",
+      "description": "تصميم مريح وعصري مع تفاصيل راقية تناسب جميع المناسبات",
       "availableSizes": [
         "S",
         "M",
-        "L",
-        "XL",
-        "XXL"
+        "L"
       ],
       "availableColors": [
-        "كما في الصورة",
-        "أبيض",
-        "أسود",
-        "رمادي"
+        "كما في الصورة"
+      ]
+    },
+    "2": {
+      "name": "مودال 2",
+      "price": 6000,
+      "image": "https://raw.githubusercontent.com/Ahcene43/store-one/main/images/1760971980292-modal6.jpg",
+      "description": "شتوي تركي فاخر",
+      "availableSizes": [
+        "L"
+      ],
+      "availableColors": [
+        "كما في الصورة"
       ]
     }
   },
