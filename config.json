@@ -2,7 +2,7 @@
   "PRODUCTS": {
     "1": {
       "name": "مودال 1",
-      "price": 3300,
+      "price": 5500,
       "image": "https://raw.githubusercontent.com/Ahcene43/WAW/main/images/1760944489259-Screenshot_20251006-134027_Facebook.jpg",
       "description": "تصميم مريح وعصري مع تفاصيل راقية تناسب جميع المناسبات",
       "availableSizes": [
@@ -11,55 +11,6 @@
       ],
       "availableColors": [
         "كما في الصورة"
-      ]
-    },
-    "2": {
-      "name": "مودال 2",
-      "price": 3300,
-      "image": "https://raw.githubusercontent.com/Ahcene43/Inas/main/images/1760955573317-modal12.jpg.webp",
-      "description": "مودال خرافي للأفراح",
-      "availableSizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "availableColors": [
-        "كما في الصورة",
-        "أبيض"
-      ]
-    },
-    "3": {
-      "name": "مودال 3",
-      "price": 3300,
-      "image": "https://raw.githubusercontent.com/Ahcene43/store-one/main/images/1760960602487-modal2.jpg",
-      "description": "وصف المنتج الجديد",
-      "availableSizes": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
-      "availableColors": [
-        "كما في الصورة",
-        "أبيض",
-        "أسود",
-        "رمادي"
-      ]
-    },
-    "4": {
-      "name": "مودال 4",
-      "price": 4000,
-      "image": "https://raw.githubusercontent.com/Ahcene43/store-one/main/images/1760963621175-modal6.jpg",
-      "description": "معطف أنيق وجداب",
-      "availableSizes": [
-        "S",
-        "M"
-      ],
-      "availableColors": [
-        "كما في الصورة",
-        "أسود"
       ]
     }
   },
