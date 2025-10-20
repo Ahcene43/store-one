@@ -47,6 +47,20 @@
         "أسود",
         "رمادي"
       ]
+    },
+    "4": {
+      "name": "مودال 4",
+      "price": 4000,
+      "image": "https://raw.githubusercontent.com/Ahcene43/store-one/main/images/1760963621175-modal6.jpg",
+      "description": "معطف أنيق وجداب",
+      "availableSizes": [
+        "S",
+        "M"
+      ],
+      "availableColors": [
+        "كما في الصورة",
+        "أسود"
+      ]
     }
   },
   "DELIVERY_PRICES": {
