@@ -25,6 +25,22 @@
       "availableColors": [
         "كما في الصورة"
       ]
+    },
+    "3": {
+      "name": "مودال 3",
+      "price": 4500,
+      "image": "https://raw.githubusercontent.com/Ahcene43/WAW/main/images/1760985144725-Screenshot_20251006-133723_Facebook.jpg",
+      "description": "معطف الأكثر  مبيعا",
+      "availableSizes": [
+        "L",
+        "XL",
+        "M",
+        "S"
+      ],
+      "availableColors": [
+        "كما في الصورة",
+        "أحمر"
+      ]
     }
   },
   "DELIVERY_PRICES": {
