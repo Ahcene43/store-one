@@ -3,7 +3,7 @@
     "1": {
       "name": "مودال 1",
       "price": 3300,
-      "image": "https://raw.githubusercontent.com/Ahcene43/store-one/main/images/1760911957163-modal4.jpg",
+      "image": "https://raw.githubusercontent.com/Ahcene43/WAW/main/images/1760944489259-Screenshot_20251006-134027_Facebook.jpg",
       "description": "تصميم مريح وعصري مع تفاصيل راقية تناسب جميع المناسبات",
       "availableSizes": [
         "S",
@@ -16,30 +16,36 @@
     "2": {
       "name": "مودال 2",
       "price": 3300,
-      "image": "https://raw.githubusercontent.com/Ahcene43/store-one/main/images/1760912030806-modle6.jpg",
-      "description": "تصميم عملي وأنيق مع خامات عالية الجودة تدوم طويلا",
+      "image": "https://raw.githubusercontent.com/Ahcene43/Inas/main/images/1760955573317-modal12.jpg.webp",
+      "description": "مودال خرافي للأفراح",
       "availableSizes": [
         "S",
-        "M"
+        "M",
+        "L",
+        "XL"
       ],
       "availableColors": [
-        "كما في الصورة"
+        "كما في الصورة",
+        "أبيض"
       ]
     },
     "3": {
       "name": "مودال 3",
       "price": 3300,
-      "image": "https://raw.githubusercontent.com/Ahcene43/store-one/main/images/1760912074011-modal6.jpg.webp",
-      "description": "مثالي للأنشطة اليومية مع تصميم يسمح بحرية الحركة",
+      "image": "https://raw.githubusercontent.com/Ahcene43/store-one/main/images/1760960602487-modal2.jpg",
+      "description": "وصف المنتج الجديد",
       "availableSizes": [
+        "S",
         "M",
         "L",
-        "S"
+        "XL",
+        "XXL"
       ],
       "availableColors": [
-        "بنفسجي",
-        "أصفر",
-        "كما في الصورة"
+        "كما في الصورة",
+        "أبيض",
+        "أسود",
+        "رمادي"
       ]
     }
   },
@@ -286,7 +292,7 @@
     "discountPerItem": 300
   },
   "STORE_INFO": {
-    "name": "BEN&KRAB-Shopp",
+    "name": "Shopping",
     "tagline": "متجر أفخم الملابس للأطفال",
     "phoneNumbers": [
       "0671466489",
